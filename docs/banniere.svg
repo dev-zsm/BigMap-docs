@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 200" width="880" height="200">
+  <rect width="880" height="200" rx="18" fill="#0071E3"/>
+  <circle cx="112" cy="100" r="52" fill="#FFFFFF"/>
+  <text x="112" y="117" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="48" font-weight="700" fill="#0071E3"
+        text-anchor="middle">BM</text>
+  <text x="196" y="86" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="46" font-weight="700" fill="#FFFFFF">BigMap</text>
+  <text x="196" y="126" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="19" fill="#CFE4FB">Géomarketing du fast-food en France</text>
+  <text x="196" y="156" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="15" fill="#A8C8F5">3 197 restaurants · 6 enseignes · données INSEE</text>
+</svg>
